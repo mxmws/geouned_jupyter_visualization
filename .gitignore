@@ -1,0 +1,7 @@
+.venv/
+.jupyter/
+.vscode/
+outputs/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc

@@ -1,0 +1,14 @@
+name: geouned-jupyter-visualization
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geouned=1.6.4
+  - cadquery=2.7
+  - jupyterlab
+  - nbclient
+  - ipykernel
+  - matplotlib
+  - plotly
+  - py7zr
+  - pip

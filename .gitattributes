@@ -1,0 +1,5 @@
+*.step -text
+*.stp -text
+*.ipynb text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
